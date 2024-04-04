@@ -1,30 +1,215 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "7fc2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f4b2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7c8e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4821",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "dc00",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "cd8d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d7be",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "35dc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "abe2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "39b8",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "7c71",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "5810",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "583f",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "b23e",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "6379",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "36ba",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "ebbf",
+      "userName": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "9962",
+      "name": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "bc5d",
+      "name": "johndoe",
+      "userEmail": "johndoe@gmail.com"
+    },
+    {
+      "id": "6037",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "036c",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "3da1",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "1576",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "d320",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "71e7",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "329d",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "c45a",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "9da9",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "d3ec",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "fda2",
+      "name": "johndoe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "5123",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "f444",
+      "name": "John Doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": "8c27",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "6a54",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "a587",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "617f",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
